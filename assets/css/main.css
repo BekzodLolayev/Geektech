@@ -271,8 +271,6 @@ h6 {
   }
 
   .header .header-container {
-    margin-left: 10px;
-    margin-right: 10px;
     padding: 20px 5px 20px 15px;
   }
 
@@ -1634,7 +1632,7 @@ section,
   justify-content: center;
   align-items: center;
   border-radius: 50px;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.1s ease-in-out;
   margin-right: 15px;
 }
 
@@ -1684,7 +1682,7 @@ section,
   background: var(--accent-color);
   border: 0;
   padding: 10px 30px;
-  transition: 0.4s;
+  transition: 0.1s;
   border-radius: 50px;
 }
 
